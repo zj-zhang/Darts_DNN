@@ -6,6 +6,10 @@
 Darts_DNN documentation
 =====================================
 
+**Deep-learning Augmented RNA-seq analysis of Transcript Splicing**
+
+Deep Neural Networks (DNN) *v0.1.0*
+
 .. toctree::
    :maxdepth: 1
    :caption: Contents:
@@ -13,6 +17,7 @@ Darts_DNN documentation
    get_started
    readme
    modules
+   license
    changelog
 
 .. mdinclude:: get_started.md
